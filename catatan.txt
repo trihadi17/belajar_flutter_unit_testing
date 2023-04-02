@@ -1,0 +1,1 @@
+Unit testing = Program yang mengetes class,function/method atau widget yang telah dibuat apakah sudah sesuai dengan design yang sudah kita rancang
